@@ -9,7 +9,7 @@
 - Dependencies - bump org.jetbrains.kotlin.jvm to 1.4.0
 - Dependencies - bump io.gitlab.arturbosch.detekt to 1.11.0
 
-## [0.3.1]
+## [1.0.0]
 ### Added
 - Better handling of the Gradle plugin description extraction from the README file
 - GitHub Actions - cache Gradle Wrapper
